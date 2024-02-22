@@ -1,0 +1,6 @@
+warning package.json: No license field
+$ storybook build --output-dir C:\Users\ALBA~1.LOP\AppData\Local\Temp\chromatic--8640-IO7jWo0AXFbY
+"storybook" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
