@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "@storybook/test-runner": "^0.16.0",
-    "@storybook/testing-react": "^2.0.1"
+    "@storybook/testing-react": "^2.0.1",
+    "chromatic": "^10.9.6"
   }
 }
